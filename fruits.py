@@ -6,5 +6,9 @@ print('Hello, I am mango!')
 
 print('Hello, I am orange!')
 
+print('Hello, I am berry!')
+
+print('Helloooo!!')
+
 
 
